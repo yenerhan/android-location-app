@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706164076597",
+    "firebase_url": "https://happypoint-b811f.firebaseio.com",
+    "project_id": "happypoint-b811f",
+    "storage_bucket": "happypoint-b811f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706164076597:android:0418c2a725c7720f",
+        "android_client_info": {
+          "package_name": "com.yener.happypoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706164076597-sf7u0eb4b8sljfdculu1ips77p1r21oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yener.happypoint",
+            "certificate_hash": "4ca225c49bb10e916cad316228a509ab23442e7e"
+          }
+        },
+        {
+          "client_id": "706164076597-aouncr107741qf5u0abl19r40mg2afre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgM8d12l3k4WcM7QPrBsH_8190Rat7ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706164076597-aouncr107741qf5u0abl19r40mg2afre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
